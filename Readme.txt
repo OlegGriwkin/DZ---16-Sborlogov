@@ -9,10 +9,6 @@
      Docs: man:chronyd(8)
            man:chrony.conf(5)
 
-Проверим правильность даты:
-[root@web ~]# date
-Wed Apr 13 08:35:22 UTC 2022
-
 Установим текстовый редактор VIM на обоих серверах:
 [root@web ~]# yum install -y vim
 [root@log ~]# yum install -y vim
