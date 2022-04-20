@@ -113,6 +113,6 @@ nginx: configuration file /etc/nginx/nginx.conf test is successful
 
 Переходим на виртуальную машину log
 Смотрим информацию об nginx:
-[root@log web]# cat /var/log/rsyslog/web/nginx_access.log
-[root@log web]# cat /var/log/rsyslog/web/nginx_access.log
+[root@log ~]# cat /var/log/rsyslog/web/nginx_access.log
+[root@log ~]# cat /var/log/rsyslog/web/nginx_access.log
 #скрин логов в папке с ДЗ
